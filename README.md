@@ -1,4 +1,4 @@
-# Solucion backend para un Sistema de Gestion de Votaciones Estudiantiles
+# Solucion Backend para un Sistema de Gestion de Votaciones Estudiantiles
 Instrucciones de Ejecución
 Descargar el Archivo: Descarga el archivo del proyecto y colócalo en el espacio de trabajo de Eclipse IDE.
 
