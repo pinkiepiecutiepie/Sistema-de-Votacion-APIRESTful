@@ -1,5 +1,5 @@
 # Solucion Backend para un Sistema de Gestion de Votaciones Estudiantiles
-Instrucciones de Ejecución
+* Instrucciones de Ejecución
 1. Descargar el Archivo: Descarga el archivo del proyecto y colócalo en el espacio de trabajo de Eclipse IDE.
 
 2. Instalar Extensión: Descarga e instala la extensión Spring Tools Suite desde el Marketplace de Eclipse.
